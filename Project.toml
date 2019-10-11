@@ -1,0 +1,4 @@
+name = "scailist"
+uuid = "0b26a82c-50df-439c-ba86-950e6528deef"
+authors = ["Seth Stadick <sstadick@gmail.com>"]
+version = "0.1.0"
